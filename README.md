@@ -12,3 +12,10 @@ run with:
 or you can use it as a library.
 
 Some examples of its usage as a library are the [DiscourseSimplification](https://github.com/Lambda-3/DiscourseSimplification) and inside the [Graphene](https://github.com/Lambda-3/Graphene) pipeline.
+
+## Contributors (alphabetical order)
+- Andre Freitas
+- Bernhard Bermeitinger
+- Christina Niklaus
+- Matthias Cetto
+- Siegfried Handschuh
